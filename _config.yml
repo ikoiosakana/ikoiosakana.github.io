@@ -17,11 +17,11 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/light.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "ikoioSakana"
+description: "君を愛する度に、愛じゃ足りない気がしてた"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://ikoiosakana.github.io"
-logo: D:/Blog/ikoiosakana.github.io/favicon.ico
+logo: D:/Blog/ikoiosakana.github.io/logo.jpg
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
