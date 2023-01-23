@@ -9,6 +9,8 @@ tags:
 last_modified_at: 2023-01-23T13:25.000Z
 ---
 
+前端学习笔记 1：HTMLJ 基础
+
 ## 前端介绍
 
 ### 前端技能构成
@@ -65,15 +67,15 @@ last_modified_at: 2023-01-23T13:25.000Z
 
 ### HTML 标签
 
-- <p> 段落
-- <em> 强调元素，帮助搜索引擎提取内容，default 为粗体
-- <strong>
+- \<\p> 段落
+- \<\em> 强调元素，帮助搜索引擎提取内容，default 为粗体
+- \<\strong>
 
-- <h1> ~ <h6> 标题，每个网页都需要且只能有一个h1标题
+- \<\h1> ~ \<\h6> 标题，每个网页都需要且只能有一个 h1 标题
 
 #### 链接
 
-- <a> 锚点标签
+- \<\a> 锚点标签
   - href：超文本引用
   - download：点击下载，布尔
   - target：若值为`_blang`，则在新标签页打开网页
@@ -123,11 +125,11 @@ last_modified_at: 2023-01-23T13:25.000Z
 
 #### 表格
 
-- <tr> table row
-- <td> table dataceil 单元格
-- <th> table headerceil 表头
+- \<\tr> table row
+- \<\td> table dataceil 单元格
+- \<\th> table headerceil 表头
 
-- <thead>/<tbody>/<tfoot> 优化结构
+- \<\thead>/\<\tbody>/\<\tfoot> 优化结构
 
 - colspan：列扩展
 
@@ -153,14 +155,14 @@ table, td {}
 
 ##### semantic 容器
 
-- <article>
-- <figure>
-- <mark>
-- <time>
+- \<\article>
+- \<\figure>
+- \<\mark>
+- \<\time>
 
-- <figcaption>
+- \<\figcaption>
 
-- <time datetime="2021-01-01 17:00">
+- \<\time datetime="2021-01-01 17:00">
 
 ###### 应用
 
