@@ -21,7 +21,7 @@ title: "ikoioSakana"
 description: "君を愛する度に、愛じゃ足りない気がしてた"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://ikoiosakana.github.io"
-logo: D:/Blog/ikoiosakana.github.io/logo.jpg
+logo: file:///D:/Blog/ikoiosakana.github.io/logo.jpg
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
