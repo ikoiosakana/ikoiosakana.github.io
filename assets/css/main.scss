@@ -11,10 +11,10 @@ sitemap: false
 
 @font-face {
     font-family: X;
-    src: url(fonts/LXGWNeoXiHei.ttf);
+    src: url(fonts/NotoSerifSC-Black.otf), url(fonts/NotoSerifSC-Bold.otf), url(fonts/NotoSerifSC-ExtraLight.otf), url(fonts/NotoSerifSC-Light.otf), url(fonts/NotoSerifSC-Medium.otf), url(fonts/NotoSerifSC-Regular.otf), url(fonts/NotoSerifSC-SemiBold.otf);
 }
 
 body {
     font-family: "X";
-    font-size: 50px;
+    font-size: 40px;
 }
