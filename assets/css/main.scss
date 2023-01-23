@@ -6,3 +6,15 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+
+
+@font-face {
+    font-family: X;
+    src: url(fonts/X1.otf), url(fonts/X2.otf), url(fonts/X3.otf), url(fonts/X4.otf), url(fonts/X5.otf);
+}
+
+body {
+    font-family: "X";
+    font-size: 20px;
+}
