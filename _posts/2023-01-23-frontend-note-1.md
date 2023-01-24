@@ -1,5 +1,5 @@
 ---
-title: "前端学习笔记1"
+title: "Front-end Note 1"
 categories:
   - 前端
 tags:
